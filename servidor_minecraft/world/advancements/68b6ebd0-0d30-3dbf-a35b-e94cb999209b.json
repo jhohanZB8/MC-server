@@ -77,15 +77,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-12-05 20:57:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 20:39:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-05 20:57:58 +0000"
     },
     "done": true
   },
@@ -325,15 +325,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-12-05 20:30:45 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-12-05 20:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-05 20:30:45 +0000"
     },
     "done": true
   },
@@ -541,15 +541,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2024-12-05 20:45:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 20:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-05 20:45:12 +0000"
     },
     "done": true
   },
@@ -976,15 +976,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-05 20:48:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-05 20:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 20:48:41 +0000"
     },
     "done": true
   },
@@ -1129,15 +1129,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/door_mat": {
-    "criteria": {
-      "has_wheat": "2024-12-05 20:40:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-05 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-05 20:40:55 +0000"
     },
     "done": true
   },
@@ -1207,15 +1207,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-05 20:48:41 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-05 20:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 20:48:41 +0000"
     },
     "done": true
   },
@@ -1255,12 +1255,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-05 20:48:13 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_coffee_table": {
     "criteria": {
       "has_log": "2024-12-05 20:28:48 +0000"
@@ -1270,6 +1264,12 @@
   "cfm:recipes/cfm/spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-05 20:39:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 20:48:13 +0000"
     },
     "done": true
   },
