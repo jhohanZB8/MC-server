@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "68b6ebd0-0d30-3dbf-a35b-e94cb999209b",
+    "name": "YONX",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
