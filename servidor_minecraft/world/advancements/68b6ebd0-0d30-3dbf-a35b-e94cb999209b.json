@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-05 20:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 20:39:53 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-05 20:54:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-05 20:33:26 +0000"
@@ -254,7 +266,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2024-12-05 20:32:52 +0000",
-      "bread": "2024-12-05 20:42:30 +0000"
+      "bread": "2024-12-05 20:42:30 +0000",
+      "beetroot": "2024-12-05 20:53:51 +0000"
     },
     "done": false
   },
@@ -267,6 +280,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-12-05 07:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-05 20:53:04 +0000"
     },
     "done": true
   },
@@ -597,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-05 20:53:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_park_bench": {
     "criteria": {
       "has_planks": "2024-12-05 20:39:53 +0000"
@@ -756,6 +781,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-05 20:48:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-12-05 20:53:04 +0000"
     },
     "done": true
   },

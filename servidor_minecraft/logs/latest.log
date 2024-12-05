@@ -779,3 +779,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2024 20:51:46.662] [Server thread/INFO] [Jade/]: Syncing config to Mercury18 (c12bc0b5-589c-3387-be40-ec9099808321)
 [05Dec2024 20:51:54.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam69 has made the advancement [A Strange Grave Dust]
 [05Dec2024 20:51:59.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[05Dec2024 20:52:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam69 has made the advancement [Hot Stuff]
+[05Dec2024 20:52:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ColdMc has made the advancement [Alex's Mobs]
+[05Dec2024 20:52:24.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10469ms or 209 ticks behind
+[05Dec2024 20:52:29.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=74, z=-7} BlockPos{x=-11, y=72, z=6}
+[05Dec2024 20:52:47.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8228ms or 164 ticks behind
+[05Dec2024 20:53:01.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ColdMc has made the advancement [Monster Hunter]
+[05Dec2024 20:53:17.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14409ms or 288 ticks behind
+[05Dec2024 20:53:48.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16047ms or 320 ticks behind
+[05Dec2024 20:53:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam69> puedo hacer puerta al nedther ya?
+[05Dec2024 20:54:02.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ColdMc> pera
+[05Dec2024 20:54:04.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ColdMc> vamos todos
+[05Dec2024 20:54:19.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16610ms or 332 ticks behind
+[05Dec2024 20:54:27.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mercury18 was crushed by a falling tree
+[05Dec2024 20:54:29.284] [Server thread/INFO] [tombstone/]: The player Mercury18 has successfully been saved
+[05Dec2024 20:54:52.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17643ms or 352 ticks behind
+[05Dec2024 20:55:00.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam69> marica hay piratas
+[05Dec2024 20:55:25.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18376ms or 367 ticks behind
+[05Dec2024 20:55:55.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14888ms or 297 ticks behind
+[05Dec2024 20:56:15.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam69> para informacion de todos ya estoy full diamantes
+[05Dec2024 20:56:21.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mercury18 lost connection: Disconnected
+[05Dec2024 20:56:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mercury18 left the game
+[05Dec2024 20:56:23.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13504ms or 270 ticks behind
+[05Dec2024 20:56:30.496] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fda4ec6
+[05Dec2024 20:56:30.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mercury18[/127.222.251.54:56887] logged in with entity id 15576 at (-398.87202767786096, 66.5, 542.0966340741755)
+[05Dec2024 20:56:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mercury18 joined the game
+[05Dec2024 20:56:30.567] [Server thread/INFO] [Jade/]: Syncing config to Mercury18 (c12bc0b5-589c-3387-be40-ec9099808321)
+[05Dec2024 20:56:54.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15195ms or 303 ticks behind
+[05Dec2024 20:57:25.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16155ms or 323 ticks behind
+[05Dec2024 20:57:37.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam69> yo tengo un pc humilde
+[05Dec2024 20:57:56.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15791ms or 315 ticks behind
+[05Dec2024 20:57:58.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YONX has made the advancement [Book of Monsters]
+[05Dec2024 20:58:15.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam69 moved too quickly! -9.585075255704282,-2.8751356021945895,0.7789474995595924
+[05Dec2024 20:58:21.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YONX lost connection: Disconnected
+[05Dec2024 20:58:21.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YONX left the game
+[05Dec2024 20:58:25.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam69 lost connection: Disconnected
+[05Dec2024 20:58:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam69 left the game
+[05Dec2024 20:58:29.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18068ms or 361 ticks behind
+[05Dec2024 20:58:31.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gogetsu24 lost connection: Disconnected
+[05Dec2024 20:58:31.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gogetsu24 left the game
+[05Dec2024 20:58:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 20:58:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 20:58:34.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 20:58:34.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ColdMc lost connection: Server closed
+[05Dec2024 20:58:34.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ColdMc left the game
+[05Dec2024 20:58:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 20:58:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[05Dec2024 20:58:42.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[05Dec2024 20:58:42.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[05Dec2024 20:58:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/twilightforest:twilight_forest
+[05Dec2024 20:58:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 20:58:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 20:58:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 20:58:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Dec2024 20:58:42.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 20:58:42.246] [Server thread/INFO] [configured/]: Unloading server configs...
+[05Dec2024 20:58:42.248] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
